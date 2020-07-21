@@ -67,3 +67,4 @@ function tinyFriend(name){
 
 var result = tinyFriend(["prottoy", "rifat"]);
 console.log(result);
+*/
