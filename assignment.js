@@ -1,6 +1,6 @@
 
-/**1. feetToMile
- * 
+//  feetToMile
+ 
 function feetToMile(feet){
      return  feet * 0.00019;
   
@@ -9,12 +9,12 @@ function feetToMile(feet){
     
     console.log(total_mile);
 
-    */
+  
 
-    // 2.
+ 
 
-/**woodCalculator
- * 
+// woodCalculator
+ 
    function woodCalculator(chair, table, bed){
        
     var chairCount= chair*1;
@@ -52,7 +52,7 @@ var feetCount = brickCalculator(20);
 console.log(feetCount);
 
 
-/**tinyFriend
+//tinyFriend
 
 function tinyFriend(name){
     var smallest = Name[0];
@@ -67,4 +67,4 @@ function tinyFriend(name){
 
 var result = tinyFriend(["prottoy", "rifat"]);
 console.log(result);
-*/
+
